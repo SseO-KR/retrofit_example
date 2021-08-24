@@ -12,10 +12,10 @@ ___
 - singleton design pattern </br>
 - builder design pattern </br>
 </br>
-추가:
-- json parsing
-- coroutine
-- coil
+추가: </br>
+- json parsing </br>
+- coroutine </br>
+- coil  </br>
 
 ___
 
