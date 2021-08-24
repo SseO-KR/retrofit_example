@@ -6,16 +6,16 @@
 <p align="center">이미지를 띄워주는걸 만들면서 json 파싱, 코루틴, coil까지 배우게 됨</p>
 
 ___
-- retrofit </br>
-- kotlin extension </br>
-- okhttp  </br>
-- singleton design pattern </br>
-- builder design pattern </br>
-</br>
-추가: </br>
-- json parsing </br>
-- coroutine </br>
-- coil </br>
+- retrofit 
+- kotlin extension 
+- okhttp  
+- singleton design pattern 
+- builder design pattern 
+
+추가: 
+- json parsing 
+- coroutine 
+- coil 
 
 ___
 
